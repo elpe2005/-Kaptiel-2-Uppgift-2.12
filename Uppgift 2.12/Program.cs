@@ -5,7 +5,7 @@ namespace Uppgift_2._1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(
+            Console.WriteLine("Startavgift 300 kr");
         }
     }
 }
